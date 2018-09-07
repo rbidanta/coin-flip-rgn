@@ -22,8 +22,8 @@ Once node is installed, run the script using the following command:
 node coin-flip-rgn.js 500
 ```
 
-![](./Result1.png)
-![](./Result2.png)
+![](./images/Result1.png)
+![](./images/Result2.png)
 
 *Note:* The script expects a numeric input
 
